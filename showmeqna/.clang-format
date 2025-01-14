@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+BreakBeforeBraces: Allman
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: true
+  AfterStruct: true
+  AfterEnum: true
+  BeforeCatch: true
+  BeforeElse: true
+AllowShortIfStatementsOnASingleLine: true
+ColumnLimit: 80
+SpacesBeforeTrailingComments: 2
